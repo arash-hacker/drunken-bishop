@@ -1,1 +1,1 @@
-# drunken-bishop
+![.](out.png)
